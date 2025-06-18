@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1724444835 source:c:\users\pc\desktop\salim\ss\pow.c
+
+1584205420 source:c:\users\pc\desktop\salim\pow\main.cpp
+	"main.h"
+
+1584205420 c:\users\pc\desktop\salim\pow\main.h
+	<windows.h>
+

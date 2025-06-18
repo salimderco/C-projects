@@ -1,0 +1,6 @@
+this is the ages:: 10
+ and this is thier names ::à@
+this is the ages:: 15
+ and this is thier names ::Ìÿa
+this is the ages:: 20
+ and this is thier names ::à@

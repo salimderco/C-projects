@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1715198650 source:c:\users\pc\desktop\salim\sqli;\ss.c
+	<stdio.h>
+	<stdlib.h>
+
+1715198601 source:c:\users\pc\desktop\salim\sqli;\main.c
+	<stdio.h>
+	<stdlib.h>
+
